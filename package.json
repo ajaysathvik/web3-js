@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@solana/web3.js": "^1.78.0",
+    "@project-serum/borsh": "^0.2.5",
+    "@solana/web3.js": "^1.78.4",
     "tweetnacl": "^1.0.3"
   }
 }
